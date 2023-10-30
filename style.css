@@ -1,0 +1,33 @@
+html{
+	font-size:15px; 
+}
+.divider{
+	width: 100px;
+	height: 5px;
+	background-color:#F4CB17;
+	display: inline-block;
+}
+#first{
+	background-image:url('images/main.png');
+	background-repeat:no-repeat;
+	background-size: cover;
+	width:100%;
+	height:auto;    
+}
+.banner-card{
+	position:relative;  
+	color:#fff;
+	padding: 5px;
+}
+.banner-card img{
+      max-width:100%;
+      height: auto; 
+}	
+.banner-text{
+	position:absolute;
+	top: 50%;
+	padding-left: 8px; 
+}
+#special{
+		padding: 40px;
+	}
